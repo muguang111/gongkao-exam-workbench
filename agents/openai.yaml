@@ -1,0 +1,4 @@
+interface:
+  display_name: "公考工作台"
+  short_description: "一句话启动公考备考工作台，管理倒计时、申论批改、行测训练和模考数据"
+  default_prompt: "使用 $gongkao-exam-workbench 帮我打开工作台"
