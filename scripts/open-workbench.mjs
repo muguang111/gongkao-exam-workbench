@@ -169,5 +169,5 @@ if (process.argv.includes("--serve")) {
   }
   const url = appUrl(port);
   openBrowser(url);
-  console.log(`已打开公考备考工作台：${url}`);
+  console.log(`已打开公考工作台：${url}`);
 }
